@@ -11,6 +11,8 @@
 </p>
 </section>
 
+<Br>
+ 
 <h2>Tenho experiência em trabalhar com:</h2>
 
 - HTML (5) & CSS (3)
