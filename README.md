@@ -4,7 +4,7 @@
     Então resolvi fazer a transição de carreira e me desafiei entrando na trybe.
    Que é uma escola de Desenvolvimento web. E a cada dia tem sido uma batalha,
   mas ao mesmo tempo tem sido bastante recompensador, me apaixonando a cada dia mais por essa área!</P>
-  <p>Se esta pensando se deve ou não me chamar para bater um papo, só me chame, estou aqui para ensinar, aprender, trocar experiências</p>
+  <p>Se esta pensando se deve ou não me chamar para bater um papo, só me chame, estou aqui para ensinar, aprender, trocar experiências.</p>
 </section>
 
 <p>Tenho experiência em trabalhar com:</p>
@@ -31,8 +31,6 @@
   
   <div> 
   <a href = "mailto:lucascabral112347@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
   <a href="https://www.linkedin.com/in/lucas-cabral-0a2678221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-  
-    
 </div>
