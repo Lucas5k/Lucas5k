@@ -1,6 +1,6 @@
 ## Olá, me chamo Lucas Cabral!
 
-- 🌱 Estudando front-end.
+- Concluido o módulo de Front-End!
 
 <div align="center">
   <a href="https://github.com/Lucas5k">
