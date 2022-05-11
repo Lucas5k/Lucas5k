@@ -1,4 +1,6 @@
-## Olá, me chamo Lucas Cabral!
+<h1>Olá, me chamo Lucas Cabral!</h1>
+<Br>
+ <h2>Sobre mim</h2>
 <section>
  <p>Trabalhei por 3 anos em uma empresa, antes de conhecer a área de tecnologia.
     Então resolvi fazer a transição de carreira e me desafiei entrando na trybe.
@@ -9,13 +11,14 @@
 </p>
 </section>
 
-<p>Tenho experiência em trabalhar com:</p>
+<h2>Tenho experiência em trabalhar com:</h2>
 
 - HTML (5) & CSS (3)
 - Javascript (ES6+)
 - React (+ Redux, + Hooks)
 - Concluido o módulo de Front-End!
 
+<Br>
 <div align="center">
   <a href="https://github.com/Lucas5k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas5k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
