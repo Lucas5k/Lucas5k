@@ -4,7 +4,9 @@
     Então resolvi fazer a transição de carreira e me desafiei entrando na trybe.
    Que é uma escola de Desenvolvimento web. E a cada dia tem sido uma batalha,
   mas ao mesmo tempo tem sido bastante recompensador, me apaixonando a cada dia mais por essa área!</P>
-  <p>Se esta pensando se deve ou não me chamar para bater um papo, só me chame, estou aqui para ensinar, aprender, trocar experiências.</p>
+  <p> Apaixonando por NBA e FiFa.
+ Se esta pensando se deve ou não me chamar para bater um papo ou Jogar, só me chame, estou aqui para ensinar, aprender, trocar experiências.
+</p>
 </section>
 
 <p>Tenho experiência em trabalhar com:</p>
