@@ -18,6 +18,7 @@
 - HTML (5) & CSS (3)
 - Javascript (ES6+)
 - React (+ Redux, + Hooks)
+- React Testing Library
 - Concluido o módulo de Front-End!
 
 <Br>
