@@ -20,6 +20,8 @@
 - React (+ Redux, + Hooks)
 - React Testing Library
 - Concluido o módulo de Front-End!
+- Docker (Docker-compose)
+- Mysql
 
 <Br>
 <div align="center">
