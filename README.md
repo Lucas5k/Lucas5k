@@ -23,8 +23,10 @@
 - Docker (Docker-compose)
 - Mysql
 - Node.js
-- ORM Sequelize
 - Tests with mocha, chai, sinon
+- ORM Sequelize
+- Heroku
+- typeScript
 
 <Br>
 <div align="center">
