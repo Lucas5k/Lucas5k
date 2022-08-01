@@ -26,7 +26,7 @@
 - Tests with mocha, chai, sinon
 - ORM Sequelize
 - Heroku
-- typeScript
+- TypeScript
 
 <Br>
 <div align="center">
