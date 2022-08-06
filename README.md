@@ -2,7 +2,7 @@
 <Br>
  <h2>Sobre mim</h2>
 <section>
- <p>Trabalhei por 3 anos em uma empresa, antes de conhecer a área de tecnologia.
+ <p>Trabalhei por 4 anos em uma empresa, antes de conhecer a área de tecnologia.
     Então resolvi fazer a transição de carreira e me desafiei entrando na trybe.
    Que é uma escola de Desenvolvimento web. E a cada dia tem sido uma batalha,
   mas ao mesmo tempo tem sido bastante recompensador, me apaixonando a cada dia mais por essa área!</P>
