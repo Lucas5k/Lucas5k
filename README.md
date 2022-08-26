@@ -27,6 +27,9 @@
 - ORM Sequelize
 - Heroku
 - TypeScript
+- POO
+- Solid
+- MongoDB
 
 <Br>
 <div align="center">
