@@ -18,7 +18,8 @@
 - Javascript (ES6+)
 - React (+ Redux, + Hooks)
 - React Testing Library
-- Concluido o módulo de Front-End!
+- Teste de integração
+- Teste unitários
 - Docker (Docker-compose)
 - Mysql
 - Node.js
