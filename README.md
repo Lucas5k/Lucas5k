@@ -3,7 +3,7 @@
  <h2>Sobre mim</h2>
 <section>
  <p>Trabalhei por 4 anos em uma empresa de confecção de ternos, assim como a vida de muitas pessoas, a minha também foi impactada por conta da pandemia.
-    Através de um amigo conheci a Trybe, que é uma escola de Desenvolvimento web. Então foi ai ao buscar mais sobre resolvi fazer a transição de carreira e me desafiei entrando na trybe. Só não sabia que isso iria mudar a minha vida por completo, a cada dia tem sido uma batalha,
+    Através de um amigo conheci a Trybe, que é uma escola de Desenvolvimento web. Então foi ai ao buscar mais sobre a escola resolvi fazer a transição de carreira e me desafiei entrando na trybe. Só não sabia que isso iria mudar a minha vida por completo, a cada dia tem sido uma batalha,
   mas ao mesmo tempo tem sido bastante recompensador, me apaixonando a cada dia mais por essa área!</P>
   <p> Apaixonando por NBA e FiFa.
  Se esta pensando se deve ou não me chamar para bater um papo ou Jogar, só me chame, estou aqui para ensinar, aprender, trocar experiências.
