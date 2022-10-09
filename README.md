@@ -31,6 +31,7 @@
 - POO
 - Solid
 - MongoDB
+- ODM Mongoose
 
 <Br>
 <div align="center">
