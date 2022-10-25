@@ -32,6 +32,7 @@
 - Solid
 - MongoDB
 - ODM Mongoose
+- Python
 
 <Br>
 <div align="center">
