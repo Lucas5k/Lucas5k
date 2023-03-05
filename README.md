@@ -15,24 +15,20 @@
 <h2>Tenho experiência em trabalhar com:</h2>
 
 - HTML (5) & CSS (3)
-- Javascript (ES6+)
-- React (+ Redux, + Hooks)
-- React Testing Library
+- Javascript
+- React
 - Teste de integração
 - Teste unitários
-- Docker (Docker-compose)
+- Docker
 - Mysql
 - Node.js
-- Express.js
-- Tests with mocha, chai, sinon
-- ORM Sequelize
 - Heroku
+- Railway
 - TypeScript
-- POO
-- Solid
+- Principios Solid
 - MongoDB
-- ODM Mongoose
 - Python
+- C# Sharp
 
 <Br>
 <div align="center">
