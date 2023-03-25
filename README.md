@@ -1,4 +1,4 @@
-<img width=100% height=120&section=header src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header](https://user-images.githubusercontent.com/91425794/227730379-0cc79a63-4981-4a91-ab6f-104838d4c454.png"/>
+<img width=100% height=120px src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header](https://user-images.githubusercontent.com/91425794/227730379-0cc79a63-4981-4a91-ab6f-104838d4c454.png"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+Is+Lucas+Cabral;I'm+23+years+old;I+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <Br>
