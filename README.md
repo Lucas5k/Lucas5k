@@ -17,7 +17,6 @@
 <h2>Tenho experiência em trabalhar com:</h2>
 <br>
 <br>
-<br>
 
 ### Front-end:
  
@@ -39,7 +38,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 <br>
-<br> 
 ### Database:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -76,7 +74,6 @@
 <br>
 <br>
 <br>
-<br>
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas5k&theme=gotham)
 <br>
 <br>
@@ -88,7 +85,7 @@
 </div>
 <br>
 <br>
-### Contact-me:
+<br>
 <div> 
 <a href = "mailto:lucascabral112347@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
