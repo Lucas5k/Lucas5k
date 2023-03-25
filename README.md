@@ -75,20 +75,18 @@
 <br>
 <br>
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas5k&theme=gotham)
-
- 
- 
- 
+<br> 
 <div align="center">
   <a href="https://github.com/Lucas5k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas5k&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas5k&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
-  <div> 
-  <a href = "mailto:lucascabral112347@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### Contact me:
+<div> 
+<a href = "mailto:lucascabral112347@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-  <a href="https://www.linkedin.com/in/lucas-cabral-0a2678221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/lucas-cabral-0a2678221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
 <div align="center">
