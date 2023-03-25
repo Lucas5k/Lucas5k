@@ -1,4 +1,7 @@
 <h1>Olá, me chamo Lucas Cabral!</h1>
+<div>
+<img src="https://user-images.githubusercontent.com/91425794/227730379-0cc79a63-4981-4a91-ab6f-104838d4c454.png" />
+</div>
 <Br>
  <h2>Sobre mim</h2>
 <section>
