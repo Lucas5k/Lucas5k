@@ -72,6 +72,13 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br>
 <br>
+<br>
+<br>
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas5k&theme=gotham)
+
+ 
+ 
+ 
 <div align="center">
   <a href="https://github.com/Lucas5k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas5k&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
@@ -88,3 +95,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lucas5k}/count.svg" /></p> 
 <br></div>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
