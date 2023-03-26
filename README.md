@@ -2,12 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Lucas+Cabral;I'm+23+years+old;I+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <Br>
- <h2>Sobre mim</h2>
+ <h2>Sobre mim:</h2>
 <section>
- <p>Trabalhei por 4 anos em uma empresa de confecção de ternos, assim como a vida de muitas pessoas, a minha também foi impactada por conta da pandemia.
-    Através de um amigo conheci a Trybe, que é uma escola de Desenvolvimento web. Então foi ai ao buscar mais sobre a escola resolvi fazer a transição de carreira e me desafiei entrando na trybe. Só não sabia que isso iria mudar a minha vida por completo, a cada dia tem sido uma batalha,
-  mas ao mesmo tempo tem sido bastante recompensador, me apaixonando a cada dia mais por essa área!</P>
-  <p> Apaixonando por NBA e FiFa.
+ <p>Desde criança sempre fui apaixonado por tecnologia, mas nunca levei isso adiante. Em meio a pandemia minha vida mudou da água para o vinho, quando fui mandado embora por conta da mesma. Através de um amigo conheci a Trybe que é uma escola que ensina desenvolvimento web full stack, que além de ensinar Hardskills, também ensina habilidades comportamentais. Não pensei duas vezes em fazer a transição de carreira, pois iria ter um bom tempo disponivel para me dedicar. E hoje busco vagas de desenvolvedor Back-end.</P>
+  <p> Apaixonando por NBA 2K, FIFA e Rainbow Six Siege.
  Se esta pensando se deve ou não me chamar para bater um papo ou Jogar, só me chame, estou aqui para ensinar, aprender, trocar experiências.
 </p>
 </section>
