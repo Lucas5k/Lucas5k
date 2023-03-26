@@ -4,7 +4,7 @@
 <Br>
  <h2>Sobre mim:</h2>
 <section>
- <p>Desde criança sempre fui apaixonado por tecnologia, mas nunca levei isso adiante. Em meio a pandemia minha vida mudou da água para o vinho, quando fui mandado embora por conta da mesma. Através de um amigo conheci a Trybe que é uma escola que ensina desenvolvimento web full stack, que além de ensinar Hardskills, também ensina habilidades comportamentais. Não pensei duas vezes em fazer a transição de carreira, pois iria ter um bom tempo disponivel para me dedicar. E hoje busco vagas de desenvolvedor Back-end.</P>
+ <p>Desde criança sempre fui apaixonado por tecnologia, mas nunca levei isso adiante. Em meio a pandemia minha vida mudou da água para o vinho, quando fui mandado embora. Através de um amigo conheci a Trybe que é uma escola que ensina desenvolvimento web, que além de ensinar Hardskills, ensina habilidades comportamentais. Não pensei duas vezes em fazer a transição de carreira, pois iria ter um bom tempo disponivel para me dedicar. E hoje busco vagas de desenvolvedor Back-end.</P>
   <p> Apaixonando por NBA 2K, FIFA e Rainbow Six Siege.
  Se esta pensando se deve ou não me chamar para bater um papo ou Jogar, só me chame, estou aqui para ensinar, aprender, trocar experiências.
 </p>
